@@ -1,0 +1,16 @@
+{
+  "name": "trie",
+  "version": "1.0.0",
+  "description": "A simple trie structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "trie",
+    "string",
+    "match"
+  ],
+  "author": "Sensei",
+  "license": "MIT"
+}
